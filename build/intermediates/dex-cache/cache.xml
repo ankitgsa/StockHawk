@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_0c5d6abcc65549aede07985e4442157098fb1b29\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.melnykov-floatingactionbutton-1.2.0_fc796ecd603f81a6c57eb409971cd0b59ba9c65f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_55f9cc643f0fe89cf690bc317db53b56275859ed\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_4585d7f9c3807a904bf7df6d853c8f73a95a0bef\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_85f5f2facc20254a18193738a3907b6a0a1eb5da\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_541c8ff5a247d667c622f376bf2e661904a6ad3b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.zhanghai.android.materialprogressbar-library-1.1.5_e1e5ca87395a3d8fec5e8d1d665e67d3f7cb8267\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_17d0018a2b40e01e6469e9d377203a34280011ee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\.gradle\caches\modules-2\files-2.1\net.simonvt.schematic\schematic-annotations\0.6.3\4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36\schematic-annotations-0.6.3.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\schematic-annotations-0.6.3_115564a49ba08abb337c16647940e29460c7954f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_533e2488503ac5e33f1e2311b37f67fca1d4369f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_e6bdd0c052c3e0878c453022be13c640681eafcf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_cda90481af7698ac3ef0a4b8312fbae41f625dd2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_c7a2e0d5c047f735349cdb2c7f3f1cc12800daae\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_5a1196ef43e8f93d30dd3b6c2b1c8925c4a01188\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\exploded-aar\net.simonvt.schematic\schematic\0.6.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f6f5730f19d22f177096c8d134d4892b0fbd631d">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\net.simonvt.schematic-schematic-0.6.3_00efc4ea690e9dacc87a744ca65bf44d4081ecb6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\exploded-aar\com.diogobernardino\williamchart\2.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1f159979917aba68421fb945854049367d206410">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.diogobernardino-williamchart-2.2_9cd841a30eaf3b3505dcbdbf3b55f19da747edc5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="554248c5a186f3850dc13b8b6b824d095dfe9bf7">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7d4472bf8a1fcd7eacaf3eda7d0caa8d2392b579\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_cfd591089715a2617e57346ab04262245d11257e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\exploded-aar\com.github.afollestad.material-dialogs\core\0.8.5.7\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a94e3ac390a37f149a235f7f5e1b49b65151c0bf">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.afollestad.material-dialogs-core-0.8.5.7_56a5588168f321814204239c4aeca359d296b6c8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="62f80a7e2499c316740d6f2fce7b5b1b57f6184d">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c4ab83fe7a95f24e83de6142e1ec684cf6de813f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_185aa12a65e6de5c232f0c5b88604237dc284ea7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_ad14edddd8af4a547dc5d73d978629be9ff479c5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Ankit\Desktop\StockHawk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_fe6217ba9f663d930f98dc14d9fb4f415df84a03\classes.dex" />
+    </item>
+
+</items>
